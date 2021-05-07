@@ -1,2 +1,2 @@
 # curriculum
-proecc
+primer trabajo en CSS en forma de curriculum. 
