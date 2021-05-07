@@ -1,2 +1,2 @@
-# PRT
+# curriculum
 proecc
